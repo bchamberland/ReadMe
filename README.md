@@ -1,12 +1,18 @@
+## Bennett.ReadMe  (work in progress)
+
+
 ### This is ...
 A quick way to:
 * Introduce me as a human.
 * Answer some likely questions.
 * Set expectations around what you can expect from me as your Engineering Manager
+* The creation has helped me identify and refine my thoughts and values.
+* Hopefully this will help you understand me better and help us work together.
 
 ### This isn’t ...
 Laying out:
 * My expectations of you.
+* NOT meant as a replacement for actually getting to know each other.
 * Plans for our team, product, or company.
 * Our team or Citrix's operational processes.
 
