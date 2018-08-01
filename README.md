@@ -44,13 +44,6 @@ I like thinking through business decisions using metrics and measurements whenev
 * I value learning, and know that training up on a tech stack may not always be the fastest route to production.
 * I value your time and don’t want you to do any process that is neither beneficial to you nor required by law, policy, etc.
 
-### Feedback is very important to me.
-In situations where anonymous feedback is suggested, you’ll probably hear me suggesting that you provide direct feedback, though anonymous feedback is better than none. I’m dedicated to giving you clear and timely feedback and hope that you’ll give me the same. I believe that feedback requires three attributes:
-* Safety (you should feel safe to give and receive candid feedback) 
-* Effort (neither you nor I should feel defensive about the feedback) 
-* Benefit (giving/receiving feedback should have impact)
-Please let me know if I’m doing poorly on any of these attributes. I’ll return the favor!
-
 ### My time and attention are limited - I’d love your help!
 Practically speaking, the list of projects/problems I’m actively thinking about can only be about 4-5 items deep; beyond that, certain items will drop in priority. While I do my best to keep an active to-do list, I’ll need some help from my team.
 * If I’m getting too involved in a project that you think is going OK, please let me know you’ve got it!
@@ -71,6 +64,13 @@ Please feel free to reach out ad-hoc via Slack, or to put time on my calendar to
 * You may not find a slot on my calendar.
 * If you want to talk, let’s talk!
 * Let me know via Slack and I’ll make time.
+
+### Feedback is very important to me.
+In situations where anonymous feedback is suggested, you’ll probably hear me suggesting that you provide direct feedback, though anonymous feedback is better than none. I’m dedicated to giving you clear and timely feedback and hope that you’ll give me the same. I believe that feedback requires three attributes:
+* Safety (you should feel safe to give and receive candid feedback) 
+* Effort (neither you nor I should feel defensive about the feedback) 
+* Benefit (giving/receiving feedback should have impact)
+Please let me know if I’m doing poorly on any of these attributes. I’ll return the favor!
 
 ### When I Have Feedback For You
 My intent with feedback is to help you grow and improve.
