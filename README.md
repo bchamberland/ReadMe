@@ -1,8 +1,10 @@
-### This is ...A quick way to:
+### This is ...
+A quick way to:
 Introduce me as a human.
 Answer some likely questions.
-Set expectations around what you can expect from me as your Engineering ManagerThis isn’t ...
-### Laying out:
+Set expectations around what you can expect from me as your Engineering Manager
+### This isn’t ...
+Laying out:
 My expectations of you.
 Plans for our team, product, or company.
 Our team or Citrix's operational processes.
