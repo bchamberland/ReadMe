@@ -1,8 +1,9 @@
 ### This is ...
 A quick way to:
-Introduce me as a human.
-Answer some likely questions.
-Set expectations around what you can expect from me as your Engineering Manager
+* Introduce me as a human.
+* Answer some likely questions.
+* Set expectations around what you can expect from me as your Engineering Manager
+
 ### This isn’t ...
 Laying out:
 My expectations of you.
