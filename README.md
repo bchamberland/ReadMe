@@ -6,41 +6,42 @@ A quick way to:
 
 ### This isn’t ...
 Laying out:
-My expectations of you.
-Plans for our team, product, or company.
-Our team or Citrix's operational processes.
+* My expectations of you.
+* Plans for our team, product, or company.
+* Our team or Citrix's operational processes.
 
 ### About me
 Family
-Spouse: Danielle (Dani)
-Kids: Casey (4 in Dec), Elisabeth (2 months old)
-Pets: Dory (dog), Bruce (cat)
+* Spouse: Danielle (Dani)
+* Kids: Casey (4 in Dec), Elisabeth (2 months old)
+* Pets: Dory (dog), Bruce (cat)
 Me
-Born in Canada because Northern Maine didn't have any nearby hospitals (#DualCitizen)
-Lived in Maine until ~7 years ago, still don't like driving here
+* Born in Canada because Northern Maine didn't have any nearby hospitals (#DualCitizen)
+* Lived in Maine until ~7 years ago, still don't like driving here
 Interests
-Bruins. Seriously, its a problem
-Legos. Costly problem
-Gaming. Board games and Video games like Hearthstone or Xcom
+* Bruins. Seriously, its a problem
+* Legos. Costly problem
+* Gaming. Board games and Video games like Hearthstone or Xcom
 
 ### My role
 My job is to let the team be productive.
-Recruit the best possible new people. 
-Work with each person so they know how to be successful.
-Help bridge the gap between high-level company objectives and our concrete deliverables. The product team and I work together to provide context and explain priorities. I also keep an eye out for for places where the strategy might be unclear, or where a particular project’s purpose may have strayed.
-Process improvements. Sometimes we need “machinery” like the steps to follow to plug in a new 3rd party service. Or we need to fix a communication breakdown. Maybe there’s too much process bogging us down, and we can streamline things.
-I serve you, not the other way around. I’m always available to assist; even if my schedule looks full, I’ll make the time.
+* Recruit the best possible new people. 
+* Work with each person so they know how to be successful.
+* Help bridge the gap between high-level company objectives and our concrete deliverables. The product team and I work together to provide context and explain priorities. I also keep an eye out for for places where the strategy might be unclear, or where a particular project’s purpose may have strayed.
+* Process improvements. Sometimes we need “machinery” like the steps to follow to plug in a new 3rd party service. Or we need to fix a communication breakdown. Maybe there’s too much process bogging us down, and we can streamline things.
+* I serve you, not the other way around. I’m always available to assist; even if my schedule looks full, I’ll make the time.
 ### My favorite question is: “why?”
 I’ve found that when projects go off the tracks, it’s usually because there was some miscommunication or lack of agreement about the purpose. People often jump to the specific steps of “what we’ll do…” without making sure they’re all on the same page first. Even though it can sometimes sound redundant or pedantic, please bear with me when I ask “why” again and again - it’s really hard to be over-aligned on the fundamentals.
 If you're wondering, my second favorite question is "Can we automate that?"
 Followed closely by "Where the \**** did I put my coffee?"
 ### Any metric is better than none
-I like thinking through business decisions using metrics and measurements whenever possible. Even rough estimates or imperfect measurements still help convey general order-of-magnitude and trends.Process and Software Development
-I strongly believe in putting people over process and changing process to accommodate our needs and goals. I’ve worked with and without Agile, with and without a form of Scrum. At the end of the day, these are my values: 
-I value transparency about what’s happened, what’s happening, and what’s going to happen.
-I value speed, including proactive efforts that keep us moving quickly (e.g. writing tests, refactoring legacy code before a new feature, pairing on work to improve our code quality and bus factor)
-I value learning, and know that training up on a tech stack may not always be the fastest route to production.
-I value your time and don’t want you to do any process that is neither beneficial to you nor required by law, policy, etc.
+I like thinking through business decisions using metrics and measurements whenever possible. Even rough estimates or imperfect measurements still help convey general order-of-magnitude and trends.
+### Process and Software Development
+* I strongly believe in putting people over process and changing process to accommodate our needs and goals. I’ve worked with and without Agile, with and without a form of Scrum. At the end of the day, these are my values: 
+* I value transparency about what’s happened, what’s happening, and what’s going to happen.
+* I value speed, including proactive efforts that keep us moving quickly (e.g. writing tests, refactoring legacy code before a new feature, pairing on work to improve our code quality and bus factor)
+* I value learning, and know that training up on a tech stack may not always be the fastest route to production.
+* I value your time and don’t want you to do any process that is neither beneficial to you nor required by law, policy, etc.
 
 ### Feedback is very important to me.
 In situations where anonymous feedback is suggested, you’ll probably hear me suggesting that you provide direct feedback, though anonymous feedback is better than none. I’m dedicated to giving you clear and timely feedback and hope that you’ll give me the same. I believe that feedback requires three attributes:
