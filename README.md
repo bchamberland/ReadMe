@@ -33,6 +33,7 @@ My job is to let the team be productive.
 * Help bridge the gap between high-level company objectives and our concrete deliverables. The product team and I work together to provide context and explain priorities. I also keep an eye out for for places where the strategy might be unclear, or where a particular project’s purpose may have strayed.
 * Process improvements. Sometimes we need “machinery” like the steps to follow to plug in a new 3rd party service. Or we need to fix a communication breakdown. Maybe there’s too much process bogging us down, and we can streamline things.
 * I keep my entire world on trello boards. If you ever want to see just ask. I will never hide my priorites or what I'm doing. 
+
 I serve you, not the other way around. I’m always available to assist; even if my schedule looks full, I’ll make the time.
 ### My favorite question is: “why?”
 I’ve found that when projects go off the tracks, it’s usually because there was some miscommunication or lack of agreement about the purpose. People often jump to the specific steps of “what we’ll do…” without making sure they’re all on the same page first. Even though it can sometimes sound redundant or pedantic, please bear with me when I ask “why” again and again - it’s really hard to be over-aligned on the fundamentals.
