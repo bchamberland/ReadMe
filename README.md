@@ -11,13 +11,16 @@ Laying out:
 * Our team or Citrix's operational processes.
 
 ### About me
+
 Family
 * Spouse: Danielle (Dani)
 * Kids: Casey (4 in Dec), Elisabeth (2 months old)
 * Pets: Dory (dog), Bruce (cat)
+
 Me
 * Born in Canada because Northern Maine didn't have any nearby hospitals (#DualCitizen)
 * Lived in Maine until ~7 years ago, still don't like driving here
+
 Interests
 * Bruins. Seriously, its a problem
 * Legos. Costly problem
