@@ -18,7 +18,7 @@ Laying out:
 ### About me
 
 Family
-* Spouse: Danielle (Dani)
+* Spouse: Dani
 * Kids: Casey (4 in Dec), Elisabeth (2 months old)
 * Pets: Dory (dog), Bruce (cat)
 
