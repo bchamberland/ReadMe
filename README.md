@@ -19,7 +19,7 @@ Laying out:
 
 Family
 * Spouse: Dani
-* Kids: Casey (4 in Dec), Elisabeth (2 months old)
+* Kids: Casey (4 in Dec), Elisabeth (4 months old)
 * Pets: Dory (dog), Bruce (cat)
 
 Me
@@ -37,7 +37,7 @@ My job is to enable the team to be productive.
 * Work with each person to help them be successful.
 * Help bridge the gap between high-level company objectives and our concrete deliverables. The product team and I work together to provide context and explain priorities. I also keep an eye out for places where the strategy might be unclear, or where a particular project’s purpose may have strayed.
 * Process improvements. Sometimes we need “machinery” like the steps to follow to plug in a new 3rd party service.  Maybe there’s too much process bogging us down, and we can streamline things.
-* I keep my entire world on trello boards. If you ever want to see just ask. I will never hide my priorites or what I'm doing. 
+* I keep my entire world on trello boards. If you ever want to see, just ask. I will never hide my priorites or what I'm doing. 
 
 I serve you, not the other way around. I’m always available to assist; even if my schedule looks full, I’ll make the time.
 ### My favorite question is: “why?”
