@@ -19,7 +19,7 @@ Laying out:
 
 Family
 * Spouse: Dani
-* Kids: Casey (4 in Dec), Elisabeth (4 months old)
+* Kids: Casey (5 in Dec), Elisabeth (9 months old)
 * Pets: Dory (dog), Bruce (cat)
 
 Me
@@ -29,7 +29,7 @@ Me
 Interests
 * Bruins. Seriously, its a problem
 * Legos. Costly problem
-* Gaming. Board games and Video games like Hearthstone or Xcom
+* Gaming. Board games and Video games
 
 ### My role
 My job is to enable the team to be productive.
@@ -74,7 +74,7 @@ Please feel free to reach out ad-hoc via Slack, or to put time on my calendar to
 * If you want to talk, let’s talk!
 * Let me know via Slack and I’ll make time.
 
-### Feedback is very important to me.
+### Feedback is very important
 In situations where anonymous feedback is suggested, you’ll probably hear me suggesting that you provide direct feedback, though anonymous feedback is better than none. I’m dedicated to giving you clear and timely feedback and hope that you’ll give me the same. I believe that feedback requires three attributes:
 * Safety (you should feel safe to give and receive candid feedback) 
 * Effort (neither you nor I should feel defensive about the feedback) 
