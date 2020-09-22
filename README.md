@@ -30,6 +30,7 @@ Interests
 * Bruins. Seriously, its a problem
 * Legos. Costly problem
 * Gaming. Board games and Video games
+* Wellfleet MA. My happy place. 
 
 ### My role
 My job is to enable the team to be productive.
