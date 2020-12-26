@@ -13,7 +13,7 @@ NOT meant as a replacement for actually getting to know each other.
 Laying out:
 * My expectations of you.
 * Plans for our team, product, or company.
-* Our team or Citrix's operational processes.
+* Our team or Datto's operational processes.
 
 ### About me
 
@@ -29,7 +29,7 @@ Me
 Interests
 * Bruins. Seriously, its a problem
 * Legos. Costly problem
-* Gaming. Board games and Video games
+* Gaming. Board games and video games
 
 ### My role
 My job is to enable the team to be productive.
@@ -48,13 +48,12 @@ Followed closely by "Where the \**** did I put my coffee?"
 ### Any metric is better than none
 * I like thinking through business decisions using metrics and measurements whenever possible. Even rough estimates or imperfect measurements still help convey general order-of-magnitude and trends. And metrics give us proof that we're achieveing or failing our goals.
 
-
 ### Process and Software Development
 * I strongly believe in putting people over process and changing process to accommodate our needs and goals. I’ve worked with and without Agile, with and without a form of Scrum. At the end of the day, these are my values: 
 * I value transparency about what’s happened, what’s happening, and what’s going to happen.
 * I value speed, including proactive efforts that keep us moving quickly at a sustainable pace (e.g. writing tests, refactoring legacy code before a new feature, pairing on work to improve our code quality and bus factor)
 * I value learning, and know that training up on a tech stack may not always be the fastest route to production.
-* I value your time and don’t want you to do any process that is neither beneficial to you nor required by law, policy, Citrix, etc.
+* I value your time and don’t want you to do any process that is neither beneficial to you nor required by law, policy, Datto, etc.
 
 ### My time and attention are limited - I’d love your help!
 Practically speaking, the list of projects/problems I’m actively thinking about can only be about 4-5 items deep; beyond that, certain items will drop in priority. While I do my best to keep an active to-do list, I’ll need some help from my team.
@@ -92,4 +91,4 @@ My intent with feedback is to help you grow and improve.
 ### When You Have Feedback For Me
 * I recognize that giving feedback, especially to your manager, may feel uncomfortable. Know that I view feedback as a gift since it allows me to grow and improve, which ultimately helps not only me, but also you, the team, and the company.
 * Provide feedback in the way that you’re most comfortable with (email, Slack, video chat, etc.).
-* If for some reason you’re not comfortable giving me certain feedback directly, please don’t remain silent - you can always talk to Vivek (My manager) or someone else you believe would feel comfortable delivering it to me. How it gets to me is less important than the feedback itself. 
+* If for some reason you’re not comfortable giving me certain feedback directly, please don’t remain silent - you can always talk to my manager or someone else you believe would feel comfortable delivering it to me. How it gets to me is less important than the feedback itself. 
