@@ -5,7 +5,7 @@
 A quick way to:
 * Introduce me as a human.
 * Answer some likely questions.
-* Set expectations around what you can expect from me as your Engineering Manager
+* Set expectations around what you can expect from me as your Director of Engineering
 
 NOT meant as a replacement for actually getting to know each other.
 
@@ -13,13 +13,13 @@ NOT meant as a replacement for actually getting to know each other.
 Laying out:
 * My expectations of you.
 * Plans for our team, product, or company.
-* Our team or Datto's operational processes.
+* Our team or Ellevations's operational processes.
 
 ### About me
 
 Family
 * Spouse: Dani
-* Kids: Casey (Dec 2014), Elisabeth (June 2018)
+* Kids: Casey, Elisabeth
 * Pets: Dory (dog), Bruce (cat)
 
 Me
@@ -39,7 +39,7 @@ My job is to enable the team to be productive.
 * Work with each person to help them be successful, in the moment as well as longer term in their careers and lives.
 * Help bridge the gap between high-level company objectives and our concrete deliverables. The product team and I work together to provide context and explain priorities. I also keep an eye out for places where the strategy might be unclear, or where a particular project’s purpose may have strayed.
 * Process improvements. Sometimes we need “machinery” like the steps to follow to plug in a new 3rd party service.  Maybe there’s too much process bogging us down, and we can streamline things.
-* I keep my entire world on trello boards. If you ever want to see, just ask. I will never hide my priorites or what I'm doing. 
+* I keep my entire world on linear boards. If you ever want to see, just ask. I will never hide my priorites or what I'm doing. 
 * I serve you, not the other way around. I’m always available to assist; even if my schedule looks full, I’ll make the time.
 
 ### My favorite question is: “why?”
