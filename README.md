@@ -55,7 +55,7 @@ Followed closely by "Where the \**** did I put my coffee?"
 * I value transparency about what’s happened, what’s happening, and what’s going to happen.
 * I value speed, including proactive efforts that keep us moving quickly at a sustainable pace (e.g. writing tests, refactoring legacy code before a new feature, pairing on work to improve our code quality and bus factor)
 * I value learning, and know that training up on a tech stack may not always be the fastest route to production.
-* I value your time and don’t want you to do any process that is neither beneficial to you nor required by law, policy, Datto, etc.
+* I value your time and don’t want you to do any process that is neither beneficial to you nor required by law, policy, etc.
 
 ### My time and attention are limited - I’d love your help!
 Practically speaking, the list of projects/problems I’m actively thinking about can only be about 4-5 items deep; beyond that, certain items will drop in priority. While I do my best to keep an active to-do list, I’ll need some help from my team.
